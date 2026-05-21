@@ -75,24 +75,6 @@ I'm a **Computer Science graduate** passionate about crafting full-stack web exp
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SohanR09&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohanR09&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=SohanR09&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -126,7 +108,5 @@ I'm a **Computer Science graduate** passionate about crafting full-stack web exp
 <div align="center">
 
 ### 🚀 "Code. Learn. Build. Repeat."
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=SohanR09&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
